@@ -1,0 +1,1 @@
+In near future we will add tutorial about using SVN. For the moment, you could take a look at [this video tutorial](http://youtube.com/watch?v=vPz4VwIlrQg) that briefly covers getting last version using [Tortoise SVN client](http://tortoisesvn.tigris.org/).

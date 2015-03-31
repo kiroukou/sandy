@@ -1,0 +1,1 @@
+Currently, no bugs are being fixed in 1.x or 2.x versions and, after coming 3.1.2 release, no bugs will be fixed in 3.x either. If you still want them fixed, ask for advice on [ML](http://osflash.org/mailman/listinfo/sandy_osflash.org).
